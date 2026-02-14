@@ -1,0 +1,4 @@
+top-down
+bottom-up
+single-linkage
+multiple-linkage
